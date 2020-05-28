@@ -5,13 +5,9 @@ Multiple arduino codes that can be used with the Arduino Hero Tool
 
 Might be able to combine the sketches in the future, but for now I reprogram the device for a specific purpose when needed.
 
-Th
 For more information, see..... (To be done)
 
 ## Pinout when using a 2x10 pin header
-|1  | 2 |  3 |  4 |  5 |
-|6 |  7 |  9 |  8 |  10|
-
 | Top | Row |  | with | notch |
 | --- | --- |--- | --- | --- |
 | 1 | 2 |3 | 4 | 5   |
