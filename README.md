@@ -7,7 +7,7 @@ Might be able to combine the sketches in the future, but for now I reprogram the
 
 For more information, see..... (To be done)
 
-## Pinout when using a 2x10 pin header
+## Pinout when using a 2x5 pin header
 | Top | Row |    | with | notch |
 | --- | --- |--- | ---- | ----- |
 | 1   | 2   |3   | 4    | 5     |
