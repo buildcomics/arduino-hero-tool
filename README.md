@@ -1,11 +1,7 @@
 # Arduino Hero Toolbox
-Multifunctional Arduino codes to be used with LCD keypad shield
-
-Multiple arduino codes that can be used with the Arduino Hero Tool
+Multiple arduino codes that can be used with the Arduino Hero Tool, see https://buildcomics.com/hero/arduino-hero-toolbox-the-birth-of-a-new-hero/
 
 Might be able to combine the sketches in the future, but for now I reprogram the device for a specific purpose when needed.
-
-For more information, see..... (To be done)
 
 ## Pinout when using a 2x5 pin header
 | Top | Row |    | with | notch |
